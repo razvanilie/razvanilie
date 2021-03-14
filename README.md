@@ -5,7 +5,7 @@
 - 🎓 Student at University of Bucharest
 - 💡 I’m currently learning a lot
 - 👀 Finding good books to read
-- 🥅 2020 Goals: Be happy 🌻
+- 🥅 2021 Goals: Be happy 🌻
 - 👻 Fun fact: I love cinnamon! A LOT!
 ---
 ### Connect with me:
