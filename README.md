@@ -3,15 +3,11 @@
 ## I'm a Student Developer!!
 
 - 🎓 Student at University of Bucharest
-- 💡 I’m currently learning a lot
-- 👀 Finding good books to read
-- 🥅 2021 Goals: Be happy 🌻
-- 👻 Fun fact: I love cinnamon! A LOT!
----
+
 ### Connect with me:
 
 [<img align="left" alt="razvanilie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="razvanilie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="razvanilie | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
